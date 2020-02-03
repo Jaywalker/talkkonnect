@@ -32,8 +32,8 @@ package main
 
 import (
 	"flag"
-	"github.com/talkkonnect/talkkonnect"
 	"fmt"
+	"github.com/Jaywalker/talkkonnect"
 	"log"
 )
 
