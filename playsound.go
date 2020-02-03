@@ -32,8 +32,8 @@ package talkkonnect
 import (
 	"errors"
 	"fmt"
+	"github.com/Jaywalker/volume-go"
 	"github.com/talkkonnect/gumble/gumbleffmpeg"
-	"github.com/talkkonnect/volume-go"
 	"log"
 	"os/exec"
 	"time"

@@ -31,8 +31,8 @@ package talkkonnect
 
 import (
 	"fmt"
+	"github.com/Jaywalker/volume-go"
 	"github.com/talkkonnect/gumble/gumble"
-	"github.com/talkkonnect/volume-go"
 	"log"
 	"net"
 	"os"
